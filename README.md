@@ -6,7 +6,7 @@
 - Stemming
 - Lemmatization
 
-### Word Vectorization Technique
+### Word Vectorization Technique [NLP Tools][link1]
 ----
 - Bag of Words (Scikit-Learn Implemetation)
 ![BOW](https://cutt.ly/fkfUH9z)
@@ -14,7 +14,7 @@
 - ![TFidf](https://cutt.ly/lkfUIno)
 _(term frequency is normalized here)_
 
-### Custom Word Embedding
+### Custom Word Embedding [Custom_Word_Embedding][link2]
 ----
 Steps :
 1. Make a corpus of unique words based on their frequency
@@ -28,3 +28,7 @@ Steps :
 License
 ----
 MIT
+
+
+[link1]: <https://github.com/ravis2114/NLP-tools/blob/master/NLP%20TooLs.ipynb>
+[link2]: <https://github.com/ravis2114/NLP-tools/blob/master/custom_word_embedding.ipynb>
