@@ -11,7 +11,7 @@
 - Bag of Words (Scikit-Learn Implemetation)
 ![BOW](https://cutt.ly/fkfUH9z)
 - TFidf(Scikit-Learn Implementation)
-- ![TFidf](https://cutt.ly/lkfUIno)
+![TFidf](https://cutt.ly/lkfUIno)
 _(term frequency is normalized here)_
 
 ### Custom Word Embedding [Custom_Word_Embedding][link2]
