@@ -23,3 +23,8 @@ Steps :
 4. Make each sentence of equal length by Padding. this can be achieved through **pad_sequences** in **tf.keras**.
 5. Create an Embedding Layer with any dimensions of your choice.
 6. Input of embedding layer will be _vocab_size_, _embedding_length_ and _length of sentence_.
+
+
+License
+----
+MIT
